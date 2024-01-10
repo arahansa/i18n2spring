@@ -1,0 +1,15 @@
+{
+  "name": "i18ngooglesheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "caller-path": "^4.0.0",
+    "google-spreadsheet": "3.3.0"
+  }
+}
