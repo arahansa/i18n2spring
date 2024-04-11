@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "i18ngooglesheet": "./bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "caller-path": "^4.0.0",
-    "google-spreadsheet": "3.3.0"
+    "google-spreadsheet": "3.3.0",
+    "write-excel-file": "1.4.30"
   }
 }
