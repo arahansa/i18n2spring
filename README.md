@@ -43,3 +43,8 @@ i18ngooglesheet 를 실행하면 됩니다
 ## Invalid JWT Signature의 경우
 
 credential 정보인 i18nCred.json이 잘못되어져있는 경우가 대부분입니다. 
+
+# 구글 credential 파일에 대한 정보 
+
+- 구글 클라우드 콘솔의 Google Sheets API 및 Google Drive API 사용 설정에 대한 사용자 인증정보 파일 입니다. 
+- 다음 링크 참조 : https://posbar.tistory.com/260
