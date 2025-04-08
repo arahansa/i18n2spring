@@ -1,9 +1,4 @@
 
-
-
-// Read the messages_en.properties
-
-
 # i18n 스프링
 
 ## 사용용도
@@ -39,6 +34,9 @@ npm install -g i18ngooglesheet
 ```
 
 # 실행
+스프링 resources/messages 디렉터리에 가서 
+
+i18ngooglesheet 를 실행하면 됩니다
 
 # 예외 
 
